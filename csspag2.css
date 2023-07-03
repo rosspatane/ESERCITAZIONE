@@ -1,0 +1,204 @@
+nav ul {
+    list-style: none;
+    margin: 0 10px 0px 0px ;
+    padding: 0;
+    display: flex;
+    gap: 39px;
+    font-family: 'Inter', sans-serif;
+ }
+
+ nav a {
+    color:#10846F ;
+    text-decoration: none;
+    text-transform: uppercase;
+ }
+ 
+ 
+ nav a:hover {
+    color:#E0BFEC;
+ }
+ body {
+    margin: auto;
+ }
+ header h3{
+   color:#E0BFEC;
+   font-family: 'Knewave', cursive;
+   letter-spacing: 1px;
+ }
+ header{
+   height: 30px;
+   background-color:#D6F229;
+   padding:10px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 0;
+}
+section.xoana{
+    background-color: #fff;
+    max-width: 100%;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+ }
+ section.xoana h3, section.xoana h2 {
+    margin: 0 10px;
+    font-size: 18px;
+ }
+ section.xoana p {
+    text-align:center ;
+    margin-top:10px;
+    color: #10846F;
+    font-family: 'Inter', sans-serif;
+ }
+ 
+ section.xoana h3 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #10846F;
+    margin-top: 20px;
+    padding-top: 30px;
+    font-size: 40px;
+    font-family: 'Inter', sans-serif;
+ }
+ section.xoana div {
+    background-color: #E0BFEC;
+    border-radius: 45px 45px 45px 45px;
+    TEXT-ALIGN: CENTER;
+    height: 170px;
+}
+ 
+ section.xoana img {
+    height: 600px;
+    object-fit: cover;
+    width: 100%;
+    border-radius:  45px 45px  45px 45px;
+ }
+ 
+ section h1{
+    color:#D6F229;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 10px;
+    font-family: 'Knewave', cursive;
+    margin-bottom: 20px;
+ }
+ section h5{
+    color: #92676E;
+    text-align: center;
+    font-size: 20px;
+    line-height: 27px;
+    width: 59%;
+    margin-left: 21%;
+    font-family: 'Inter', sans-serif;
+ }
+ section.camilo{
+    background-color:#fff;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px; 
+    border-radius: 0 0 0 10px 10px 10px;
+    padding-right: 150px;
+    padding-left: 150px;
+ }
+ section.camilo h3, section.camilo h2 {
+    margin: 0 10px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+ }
+ section.camilo h2 {
+    text-align:center ;
+    padding: 10px;
+    color: #10846F;
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+    
+ }
+ 
+ .cam1 h3 {
+    text-align: center;
+    margin-bottom: 10px;
+    color:#10846F;
+    padding: 20px;
+    font-family: 'Inter', sans-serif;
+ }
+ section.camilo div {
+    background-color: #E0BFEC;
+    border-radius:  45px 45px 45px 45px;
+ }
+ section.camilo img {
+    height: 300px;
+    object-fit: cover;
+    width: 100%;
+    border-radius:  45px 45px  45px 45px;
+ }
+footer{
+   background-color: #D6F229;
+   height:190px;
+   
+}
+.testofoot h1{
+   font-size: 13pt;
+   color: #10846F;
+   width: 70%;
+margin: auto;
+text-align: center;
+font-family: 'Inter', sans-serif;
+
+}
+
+.testofoot{
+    padding-top: 25px; 
+    width: fit-content;
+    margin: auto;
+    block-size: fit-content;
+}
+.listafoot a{
+   list-style: none;
+   color: black;
+   text-decoration: none;
+   display: inline-flex;
+   margin: 20px;
+
+}
+
+
+.listafoot{
+   margin-top: 39px;
+   text-align: center;
+   font-family: 'Inter', sans-serif;
+   background: #D6F229;
+}
+ 
+ main {
+    max-width: 1000px;
+    margin: auto;
+ }
+ .cam{
+    text-align: center;
+    padding left: 120px;
+    padding right: 120px;
+    color:  #10846F;
+    padding: 15px;
+    font-family: 'Inter', sans-serif;
+ }
+ .bottom{
+    background: #D6F229;
+    border: none;
+    padding: 8px -14px;
+    border-radius: 16px 16px 16px 16px;
+    max-width: 250px;
+    display: block;
+    width: 100%;
+    clear: both;
+    margin-inline: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    
+}
+ 
+ 
+ 

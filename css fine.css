@@ -1,0 +1,120 @@
+nav ul {
+    list-style: none;
+    margin: 0 10px 0px 0px ;
+    padding: 0;
+    display: flex;
+    gap: 39px;
+ }
+
+ nav a {
+    color:#10846F ;
+    text-decoration: none;
+    text-transform: uppercase;
+ }
+ 
+ 
+ nav a:hover {
+    color:#E0BFEC;
+ }
+ body {
+    margin: auto;
+ }
+ header h3{
+   color:#E0BFEC;
+   font-family: 'Knewave', cursive;
+   letter-spacing: 1px;
+ }
+ header{
+   height: 30px;
+   background-color:#D6F229;
+   padding:10px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 0;
+}
+section.xoana{
+    background-color: #fff;
+    max-width: 100%;
+    padding-left: 330px;
+    padding-right: 100px;
+    margin-block: 20px;
+    
+}
+section h1{
+    color:#D6F229;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 10px;
+    font-family: 'Knewave', cursive;
+    margin-bottom: 20px;
+ }
+ section.xoana h5{
+    margin: 0 10px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+ }
+ section.xoana h5 {
+    text-align: left;
+    color: #10846F;
+    padding-top: 30px;
+    font-size: 22px;
+    margin: 20px;
+    font-family: 'Inter', sans-serif;
+ }
+ section.xoana h3 {
+    text-align: center;
+    color: #10846F;
+    width: 421px;
+    margin: auto ;
+    margin-top: 40px;
+    font-family: 'Inter', sans-serif;
+ }
+ section.xoana div {
+    background-color: #E0BFEC;
+    border-radius: 45px 45px 45px 45px;
+    TEXT-ALIGN: CENTER;
+    height: 350px;
+    width: 700px;
+    
+}
+
+footer{
+   background-color: #D6F229;
+   height:190px;
+   
+}
+.testofoot h1{
+   font-size: 13pt;
+   color: #10846F;
+   width: 70%;
+margin: auto;
+text-align: center;
+font-family: 'Inter', sans-serif;
+
+}
+
+.testofoot{
+    padding-top: 25px; 
+    width: fit-content;
+    margin: auto;
+    block-size: fit-content;
+}
+.listafoot a{
+   list-style: none;
+   color: black;
+   text-decoration: none;
+   display: inline-flex;
+   margin: 20px;
+
+}
+
+
+.listafoot{
+   margin-top: 39px;
+   text-align: center;
+   font-family: 'Inter', sans-serif;
+   background: #D6F229;
+}
+
+
